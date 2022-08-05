@@ -1,5 +1,5 @@
 # Menu-laateral
-HTML5,CSS3,Responsive Design,JS
+HTML5,CSS3,Responsive Design
 
 
 -----------
